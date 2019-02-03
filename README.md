@@ -1,5 +1,7 @@
 # Atach-Detach-Zeds-in-vehicles.
 
+PLEASE DONATE: https://github.com/juandayz/Atach-Detach-Zeds-in-vehicles./blob/master/DONATION.md
+
 Allow players to attach zombies in open vehicles class. They can detach from into vehicles too.
 
 To attach players gonna need an "equipe_rope" in inventory. 
